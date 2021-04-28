@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Json</string>
+    <string name="dummy">Some random text for testing</string>
+</resources>
